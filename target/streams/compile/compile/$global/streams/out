@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\212699429\Documents\git_home\The ledger\src\main\scala\tutorial\webapp\TutorialApp.scala:22:15: value appendPar is not a member of org.querki.jquery.JQuery[0m
+[0m[[0m[31merror[0m] [0m[0m    $("body").appendPar("<p>Adapa Is king</p>")[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
